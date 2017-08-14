@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world!"
+echo -e "\e[31mHello $1!\e[0m"
